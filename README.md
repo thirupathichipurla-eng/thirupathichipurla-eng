@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Thirupathi 👋
 
-<!--
-**thirupathichipurla-eng/thirupathichipurla-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Eng. International Energy Engineering  
+🌍 Based in Amberg, Germany  
+⚡ Passionate about Renewable Energy & Sustainability  
+🔧 Mechanical Engineering Background  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- MATLAB
+- Python
+- Energy Systems
+- Thermodynamics
+- Data Analysis
+- Renewable Energy Technologies
+
+---
+
+## Languages
+- English (Fluent)
+- German (B1)
+- Hindi (Native)
+
+---
+
+## Currently
+- Building engineering projects
+- Improving technical skills
+- Seeking engineering opportunities in Germany
+
+---
+
+## Connect with me
+🔗 LinkedIn:  
+https://www.linkedin.com/in/thirupathireddychipurla/
