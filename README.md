@@ -1,3 +1,9 @@
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F79A&center=true&vCenter=true&width=900&lines=International+Energy+Engineer;Renewable+Energy+Systems;Industrial+Energy+Optimization;Sustainability+Engineering;Energy+System+Modelling"/>
+
+</p>
+
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Thirupathi Reddy Chipurla
 
 <h3 align="center">
@@ -35,6 +41,7 @@ International Energy Engineer | Renewable Energy | Industrial Energy Optimizatio
 - Energy System Modelling
 
 🌍 Based in Germany  
+
 🗣️ Languages:
 - English (Fluent)
 - German (B1)
@@ -61,7 +68,7 @@ International Energy Engineer | Renewable Energy | Industrial Energy Optimizatio
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,matlab,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,github,vscode"/>
 
 </p>
 
@@ -79,6 +86,7 @@ International Energy Engineer | Renewable Energy | Industrial Energy Optimizatio
 # 📊 Featured Projects
 
 ## ⚡ Industrial Energy Loss Optimization
+
 Optimization of electrical heating systems in the glass industry with:
 - transformer efficiency analysis
 - cable loss reduction
@@ -88,6 +96,7 @@ Optimization of electrical heating systems in the glass industry with:
 ---
 
 ## ☀ Utility-Scale PV Economic Analysis
+
 Large-scale photovoltaic system analysis including:
 - energy yield simulation
 - NPV & IRR calculations
@@ -97,6 +106,7 @@ Large-scale photovoltaic system analysis including:
 ---
 
 ## 🔥 CHP Efficiency & Emission Analysis
+
 Combined Heat & Power analysis involving:
 - combustion efficiency
 - emission measurements
@@ -106,6 +116,7 @@ Combined Heat & Power analysis involving:
 ---
 
 ## 🏢 Sustainable Building Energy Systems
+
 Building energy modelling and sustainable infrastructure analysis.
 
 ---
