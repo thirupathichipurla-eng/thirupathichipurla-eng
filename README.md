@@ -121,17 +121,6 @@ Building energy modelling and sustainable infrastructure analysis.
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thirupathichipurla-eng&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirupathichipurla-eng&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 🚀 Current Goals
 
